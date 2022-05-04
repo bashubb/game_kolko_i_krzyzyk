@@ -1,1 +1,1 @@
-# game_kolko_i_krzyzyk
+Simple, but giving joy game to play in terminal
